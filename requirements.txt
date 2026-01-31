@@ -1,0 +1,2 @@
+# Requires: abstract-maybe
+# (Not available on PyPI)
